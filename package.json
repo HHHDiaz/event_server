@@ -1,0 +1,17 @@
+{
+    "name": "SERVER_NODE_JS",
+    "version": "0.0.1",
+    "description": "",
+    "main": "App.js",
+    "scripts": {
+        "start": "node public/server.js",
+        "dev": "nodemon public/server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2",
+        "uuid": "^9.0.1"
+    }
+}
